@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sharad/Projects/end_to_end_ml_project_with_mlflow/mlruns/0/45f8bb6938074d59a3ce5308c8513970/artifacts
+end_time: 1794493436499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f8bb6938074d59a3ce5308c8513970
+run_name: grandiose-donkey-165
+run_uuid: 45f8bb6938074d59a3ce5308c8513970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794493434681
+status: 4
+tags: []
+user_id: sharad

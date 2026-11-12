@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sharad/Projects/end_to_end_ml_project_with_mlflow/mlruns/0/d14b7194a0184bbb891a71ca9b39de09/artifacts
+end_time: 1794493778959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d14b7194a0184bbb891a71ca9b39de09
+run_name: persistent-fowl-272
+run_uuid: d14b7194a0184bbb891a71ca9b39de09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794493777277
+status: 4
+tags: []
+user_id: sharad

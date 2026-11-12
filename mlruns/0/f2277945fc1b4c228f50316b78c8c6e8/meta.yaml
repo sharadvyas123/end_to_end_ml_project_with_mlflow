@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sharad/Projects/end_to_end_ml_project_with_mlflow/mlruns/0/f2277945fc1b4c228f50316b78c8c6e8/artifacts
+end_time: 1794493273289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2277945fc1b4c228f50316b78c8c6e8
+run_name: colorful-auk-803
+run_uuid: f2277945fc1b4c228f50316b78c8c6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794493271620
+status: 4
+tags: []
+user_id: sharad

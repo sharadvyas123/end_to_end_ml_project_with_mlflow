@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sharad/Projects/end_to_end_ml_project_with_mlflow/mlruns/0/c036f31259434728be2691660f87a311/artifacts
+end_time: 1794492840298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c036f31259434728be2691660f87a311
+run_name: traveling-bear-336
+run_uuid: c036f31259434728be2691660f87a311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794492838757
+status: 4
+tags: []
+user_id: sharad
